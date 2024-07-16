@@ -1,0 +1,3 @@
+First compile encode.py
+
+Then run server.py
